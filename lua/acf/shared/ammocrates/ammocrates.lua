@@ -4,7 +4,6 @@
 ------------------------------
 
 ACE_DefineAmmoCrate( "Shell75mm", {
-
 	name = "Modular Ammo Crate",
 	desc = "A single 75mm Shell. As an alternative to the bulky ammocrates.\n",
 	model = "models/munitions/round_75mm.mdl",
@@ -15,7 +14,7 @@ ACE_DefineAmmoCrate( "Shell75mm", {
 	volume = 613.313
 })
 
-ACE_DefineAmmoCrate("Shell100mm", {
+ACE_DefineAmmoCrate( "Shell100mm", {
 	name = "Modular Ammo Crate",
 	desc = "A single 100mm Shell. As an alternative to the bulky ammocrates.\n",
 	model = "models/munitions/round_100mm.mdl",
@@ -26,7 +25,7 @@ ACE_DefineAmmoCrate("Shell100mm", {
 	volume = 1453.780
 })
 
-ACE_DefineAmmoCrate("Shell120mm", {
+ACE_DefineAmmoCrate( "Shell120mm", {
 	name = "Modular Ammo Crate",
 	desc = "A single 120mm Shell. As an alternative to the bulky ammocrates.\n",
 	model = "models/munitions/round_120mm.mdl",
@@ -37,7 +36,7 @@ ACE_DefineAmmoCrate("Shell120mm", {
 	volume = 2512.131
 })
 
-ACE_DefineAmmoCrate("Shell120mmAP", {
+ACE_DefineAmmoCrate( "Shell120mmAP", {
 	name = "Modular Ammo Crate",
 	desc = "A single 120mm AP Shell. As an alternative to the bulky ammocrates.\n",
 	model = "models/munitions/round_120mm_ap.mdl",
@@ -48,7 +47,7 @@ ACE_DefineAmmoCrate("Shell120mmAP", {
 	volume = 2512.131
 })
 
-ACE_DefineAmmoCrate("Shell140mm", {
+ACE_DefineAmmoCrate( "Shell140mm", {
 	name = "Modular Ammo Crate",
 	desc = "A single 140mm Shell. As an alternative to the bulky ammocrates.\n",
 	model = "models/munitions/round_130mm.mdl",
@@ -59,7 +58,7 @@ ACE_DefineAmmoCrate("Shell140mm", {
 	volume = 6238.189
 })
 
-ACE_DefineAmmoCrate("Shell170mm", {
+ACE_DefineAmmoCrate( "Shell170mm", {
 	name = "Modular Ammo Crate",
 	desc = "A single 170mm Shell. As an alternative to the bulky ammocrates.\n",
 	model = "models/munitions/round_200mm.mdl",

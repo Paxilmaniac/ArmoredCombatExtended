@@ -563,7 +563,6 @@ AmmoTable["Ammo4x8x8"] = Ammo4x8x8
 ------------------------------
 local Shell75mm = {}
 	Shell75mm.id = "Shell75mm"
-
 	Shell75mm.ent = "acf_ammo"
 	Shell75mm.type = "Ammo"
 	Shell75mm.name = "Modular Ammo Crate"
