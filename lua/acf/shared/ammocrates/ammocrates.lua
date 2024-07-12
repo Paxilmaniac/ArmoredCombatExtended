@@ -12,7 +12,7 @@ ACE_DefineAmmoCrate( "Shell75mm", {
 	Lenght = 3,
 	Width = 3,
 	Height = 31,
-
+	volume = 613.313
 })
 
 ACE_DefineAmmoCrate("Shell100mm", {
@@ -23,6 +23,7 @@ ACE_DefineAmmoCrate("Shell100mm", {
 	Length = 4,
 	Width = 4,
 	Height = 36.7,
+	volume = 1453.780
 })
 
 ACE_DefineAmmoCrate("Shell120mm", {
@@ -33,6 +34,7 @@ ACE_DefineAmmoCrate("Shell120mm", {
 	Length = 4.73,
 	Width = 4.73,
 	Height = 44,
+	volume = 2512.131
 })
 
 ACE_DefineAmmoCrate("Shell120mmAP", {
@@ -43,6 +45,7 @@ ACE_DefineAmmoCrate("Shell120mmAP", {
 	Length = 4.73,
 	Width = 4.73,
 	Height = 44,
+	volume = 2512.131
 })
 
 ACE_DefineAmmoCrate("Shell140mm", {
@@ -53,6 +56,7 @@ ACE_DefineAmmoCrate("Shell140mm", {
 	Length = 5.52,
 	Width = 5.52,
 	Height = 50,
+	volume = 6238.189
 })
 
 ACE_DefineAmmoCrate("Shell170mm", {
@@ -63,6 +67,7 @@ ACE_DefineAmmoCrate("Shell170mm", {
 	Length = 6.7,
 	Width = 6.7,
 	Height = 60.7,
+	volume = 11630.235
 })
 
 --Cube
